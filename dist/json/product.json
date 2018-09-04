@@ -1,0 +1,528 @@
+{
+	"1" : {
+		"name" : "Моторное масло MOBIL Super 3000 X1 5W-40, 4л",
+		"image" : "../img/product/product-top-img.png",
+		"description" : "ELF Tranself NFJ 75W-80 1л - Трансмиссионное масло Тип масла: Трансмиссионное масло ; Тип основы масла: синтетическое масло; SAE: 75W-80; Емкость, л: 1 ELF Tranself NFJ 75W-80 1л - Трансмиссионное масло Тип масла: Трансмиссионное масло ; Тип основы масла: синтетическое масло; SAE: 75W-80; Емкость, л: 1",
+		"productDescriptionTab" : "Mobil Super 3000 X1 5W-40 представляет собой синтетическое моторное масло, обеспечивающее длительный срок службы двигателей в автомобилях различных типов и годов выпуска, а также повышенный уровень их защиты в широком диапазоне температур.<br><br>Продукты семейства Mobil Super 3000™ уже хорошо зарекомендовали себя на рынке, поэтому Вы можете быть уверены в том, что эксплуатационные свойства Вашего автомобиля будут полностью соответствовать ожиданиям.<br><br>Mobil Super 3000 X1 5W-40 представляет собой синтетическое моторное масло, обеспечивающее длительный срок службы двигателей в автомобилях различных типов и годов выпуска, а также повышенный уровень их защиты в широком диапазоне температур.<br><br>Продукты семейства Mobil Super 3000™ уже хорошо зарекомендовали себя на рынке, поэтому Вы можете быть уверены в том, что эксплуатационные свойства Вашего автомобиля будут полностью соответствовать ожиданиям.",
+		"price" : "456",
+		"code" : "39207",
+		"stars" : "5",
+		"certificates" : 
+
+			{
+
+				"0" : "../img/certificates/certificate-1.png",
+				"1" : "../img/certificates/certificate-2.png",
+				"2" : "../img/certificates/certificate-3.png",
+				"3" : "../img/certificates/certificate-4.png"
+
+			},
+
+		"video" : 
+
+			{
+
+				"0" : "https://www.youtube.com/embed/hpjV962DLWs"
+			},
+
+		"videoImg" : 
+
+			{
+
+				"0" : "https://img.youtube.com/vi/hpjV962DLWs/maxresdefault.jpg",
+				"1" : "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg"
+
+			},
+
+		"characteristics" :
+
+			{	
+				"leftSide" :
+
+				{
+					"0" : "Класс вязкости:",
+					"1" : "сСт при 40&deg;С:",
+					"2" : "сСт при 100&deg;С:",
+					"3" : "Зальность сульфатная, % мас., ASTM D 874:",
+					"4" : "Содержание фосфора:",
+					"5" : "Температура вспышки, &deg;С, ASTM D 92:",
+					"6" : "Температура застывания, &deg;С, ASTM D 97:",
+
+					"7" : "Some text:", 
+					"8" : "Some text:",
+					"9" : "Some text:",
+					"10" : "Some text:"
+				},
+
+				"rightSide" :
+
+				{
+					"0" : "5W-40",
+					"1" : "84",
+					"2" : "14",
+					"3" : "1,1",
+					"4" : "0,0095",
+					"5" : "222",
+					"6" : "-39"
+				}
+
+			}
+	},
+
+	"2" : {
+
+		"name"  : "Трансмиссионное масло CASTRO Manual EP 80W-90 1л",
+		"image" : "../img/product/product-top-img-2.png",
+		"price" : "345",
+		"availability" : true
+	},
+
+	"3" : {
+
+		"name" : "Моторное масло Liqui Moly TOP TEC 4100 5W-40 4",
+		"price" : "326",
+		"availability" : false,
+		"image" : "../img/product/product-top-img-3.png"
+
+	},
+
+	"4" : {
+
+		"similar_products" : {
+
+			"0" : {
+
+				"code" : "39207",
+				"image": "../img/slider-img/similar-products/similar-products-1.png",
+				"availability" : true,
+				"name" : "Моторное масло Castrol Magnatec 10W-40 A3/B4 4 л",
+				"price" : "104",
+				"old_price" : "125",
+				"stars" : "5",
+				"discount" : true
+
+			},
+
+			"1" : {
+
+				"code" : "39207",
+				"image": "../img/slider-img/similar-products/similar-products-2.png",
+				"availability" : true,
+				"name" : "Моторное масло Shell Helix HX7 10W-40 4 л",
+				"price" : "456",
+				"stars" : "5",
+				"discount" : false
+
+			},
+
+			"2" : {
+
+				"code" : "39207",
+				"image": "../img/slider-img/similar-products/similar-products-3.png",
+				"availability" : false,
+				"name" : "Моторное масло Mobil Super3000 X1 5W-40 4 л",
+				"price" : "268",
+				"stars" : "5",
+				"discount" : true
+			},
+
+			"3" : {
+
+				"code" : "39207",
+				"image": "../img/slider-img/similar-products/similar-products-4.png",
+				"availability" : true,
+				"name" : "Моторное масло Castrol Magnatec 10W-40 A3/B4 4 л",
+				"price" : "104",
+				"stars" : "5",
+				"discount" : false
+
+			},
+
+			"4" : {
+
+				"code" : "39207",
+				"image": "../img/slider-img/similar-products/similar-products-5.png",
+				"availability" : true,
+				"name" : "Моторное масло Shell HelixHX7 10W-40 4 л",
+				"price" : "456",
+				"stars" : "5",
+				"discount" : false
+
+			},
+
+			"5" : {
+
+				"code" : "39207",
+				"image": "../img/slider-img/similar-products/similar-products-1.png",
+				"availability" : true,
+				"name" : "Моторное масло Castrol Magnatec 10W-40 A3/B4 4 л",
+				"price" : "104",
+				"old_price" : "125",
+				"stars" : "5",
+				"discount" : false
+
+			},
+
+			"6" : {
+
+				"code" : "39207",
+				"image": "../img/slider-img/similar-products/similar-products-1.png",
+				"availability" : true,
+				"name" : "Моторное масло Castrol Magnatec 10W-40 A3/B4 4 л",
+				"price" : "125",
+				"stars" : "5",
+				"discount" : false
+
+			},
+
+			"7" : {
+
+				"code" : "39207",
+				"image": "../img/slider-img/similar-products/similar-products-1.png",
+				"availability" : true,
+				"name" : "Моторное масло Castrol Magnatec 10W-40 A3/B4 4 л",
+				"price" : "125",
+				"stars" : "5",
+				"discount" : false
+
+			},
+
+			"8" : {
+
+				"code" : "39207",
+				"image": "../img/slider-img/similar-products/similar-products-2.png",
+				"availability" : true,
+				"name" : "Моторное масло Shell Helix HX7 10W-40 4 л",
+				"price" : "456",
+				"stars" : "5",
+				"discount" : false
+
+			},
+
+			"9" : {
+
+				"code" : "39207",
+				"image": "../img/slider-img/similar-products/similar-products-2.png",
+				"availability" : true,
+				"name" : "Моторное масло Shell Helix HX7 10W-40 4 л",
+				"price" : "456",
+				"stars" : "5",
+				"discount" : false
+
+			}
+
+		},
+
+
+		"product_also_bought" : {
+
+			"0" : {
+
+				"code" : "39207",
+				"image": "../img/slider-img/similar-products/similar-products-1.png",
+				"availability" : true,
+				"name" : "Моторное масло Castrol Magnatec 10W-40 A3/B4 4 л",
+				"price" : "104",
+				"old_price" : "125",
+				"stars" : "1",
+				"discount" : true
+
+			},
+
+			"1" : {
+
+				"code" : "14882",
+				"availability" : true,
+				"image": "../img/slider-img/similar-products/similar-products-2.png",
+				"name" : "Моторное масло Shell HelixHX7 10W-40 4 л",
+				"price" : "456",
+				"stars" : "2",
+				"discount" : false
+
+			},
+
+			"2" : {
+
+				"code" : "39207",
+				"image": "../img/slider-img/similar-products/similar-products-3.png",
+				"availability" : false,
+				"name" : "Моторное масло Mobil Super3000 X1 5W-40 4 л",
+				"price" : "268",
+				"stars" : "5",
+				"discount" : false
+
+			},
+
+			"3" : {
+
+				"code" : "39207",
+				"availability" : true,
+				"image": "../img/slider-img/similar-products/similar-products-4.png",
+				"name" : "Моторное масло Castrol Magnatec 10W-40 A3/B4 4 л",
+				"price" : "104",
+				"old_price" : "125",
+				"stars" : "0",
+				"discount" : false
+
+			},
+
+			"4" : {
+
+				"code" : "39207",
+				"availability" : true,
+				"image": "../img/slider-img/similar-products/similar-products-5.png",
+				"name" : "Моторное масло Shell HelixHX7 10W-40 4 л",
+				"price" : "456",
+				"stars" : "4",
+				"discount" : false
+
+			},
+
+			"5" : {
+
+				"code" : "39207",
+				"image": "../img/slider-img/similar-products/similar-products-1.png",
+				"availability" : true,
+				"name" : "Моторное масло Castrol Magnatec 10W-40 A3/B4 4 л",
+				"price" : "104",
+				"old_price" : "125",
+				"stars" : "5",
+				"discount" : false
+
+			},
+
+			"6" : {
+
+				"code" : "39207",
+				"image": "../img/slider-img/similar-products/similar-products-1.png",
+				"availability" : true,
+				"name" : "Моторное масло Castrol Magnatec 10W-40 A3/B4 4 л",
+				"price" : "104",
+				"old_price" : "125",
+				"stars" : "5",
+				"discount" : false
+
+			},
+
+			"7" : {
+
+				"code" : "39207",
+				"image": "../img/slider-img/similar-products/similar-products-1.png",
+				"availability" : true,
+				"name" : "Моторное масло Castrol Magnatec 10W-40 A3/B4 4 л",
+				"price" : "125",
+				"stars" : "5",
+				"discount" : false
+
+			}
+
+		},
+
+		"buyers_choose_for" : {
+
+			"0" : {
+
+				"code" : "39207",
+				"image": "../img/slider-img/buyers-choose-for/buyers-choose-for-1.png",
+				"availability" : true,
+				"name" : "Моторное масло Castrol Magnatec 10W-40 A3/B4 4 л",
+				"price" : "104",
+				"old_price" : "125",
+				"stars" : "1",
+				"discount" : true
+
+			},
+
+			"1" : {
+
+				"code" : "14882",
+				"availability" : true,
+				"image": "../img/slider-img/buyers-choose-for/buyers-choose-for-2.png",
+				"name" : "Моторное масло Shell HelixHX7 10W-40 4 л",
+				"price" : "456",
+				"stars" : "2",
+				"discount" : false
+
+			},
+
+			"2" : {
+
+				"code" : "39207",
+				"image": "../img/slider-img/buyers-choose-for/buyers-choose-for-3.png",
+				"availability" : false,
+				"name" : "Моторное масло Mobil Super3000 X1 5W-40 4 л",
+				"price" : "268",
+				"stars" : "5",
+				"discount" : false
+
+			},
+
+			"3" : {
+
+				"code" : "39207",
+				"availability" : true,
+				"image": "../img/slider-img/buyers-choose-for/buyers-choose-for-4.png",
+				"name" : "Моторное масло Castrol Magnatec 10W-40 A3/B4 4 л",
+				"price" : "104",
+				"old_price" : "125",
+				"stars" : "0",
+				"discount" : false
+
+			},
+
+			"4" : {
+
+				"code" : "39207",
+				"availability" : true,
+				"image": "../img/slider-img/buyers-choose-for/buyers-choose-for-5.png",
+				"name" : "Моторное масло Shell HelixHX7 10W-40 4 л",
+				"price" : "456",
+				"stars" : "4",
+				"discount" : false
+
+			},
+
+			"5" : {
+
+				"code" : "39207",
+				"image": "../img/slider-img/buyers-choose-for/buyers-choose-for-3.png",
+				"availability" : true,
+				"name" : "Моторное масло Castrol Magnatec 10W-40 A3/B4 4 л",
+				"price" : "104",
+				"old_price" : "125",
+				"stars" : "5",
+				"discount" : false
+
+			},
+
+			"6" : {
+
+				"code" : "39207",
+				"image": "../img/slider-img/buyers-choose-for/buyers-choose-for-1.png",
+				"availability" : true,
+				"name" : "Моторное масло Castrol Magnatec 10W-40 A3/B4 4 л",
+				"price" : "104",
+				"old_price" : "125",
+				"stars" : "5",
+				"discount" : false
+
+			},
+
+			"7" : {
+
+				"code" : "39207",
+				"image": "../img/slider-img/buyers-choose-for/buyers-choose-for-5.png",
+				"availability" : true,
+				"name" : "Моторное масло Castrol Magnatec 10W-40 A3/B4 4 л",
+				"price" : "125",
+				"stars" : "5",
+				"discount" : false
+
+			}
+
+		},
+
+		"you_looked_through" : {
+
+			"0" : {
+
+				"code" : "39207",
+				"image": "../img/slider-img/you-looked-through/you-looked-through-1.png",
+				"availability" : true,
+				"name" : "Трансмиссионное масло CASTRO Manual EP <br> 80W-90 1л",
+				"price" : "345",
+				"stars" : "4",
+				"discount" : false
+
+			},
+
+			"1" : {
+
+				"code" : "14882",
+				"availability" : true,
+				"image": "../img/slider-img/you-looked-through/you-looked-through-2.png",
+				"name" : "Трансмиссионное масло CASTRO Manual EP <br> 80W-90 1л",
+				"price" : "345",
+				"stars" : "5",
+				"discount" : false
+
+			},
+
+			"2" : {
+
+				"code" : "39207",
+				"image": "../img/slider-img/you-looked-through/you-looked-through-3.png",
+				"availability" : true,
+				"name" : "Трансмиссионное масло CASTRO Manual EP <br> 80W-90 1л",
+				"price" : "345",
+				"stars" : "5",
+				"discount" : false
+
+			},
+
+			"3" : {
+
+				"code" : "39207",
+				"availability" : true,
+				"image": "../img/slider-img/you-looked-through/you-looked-through-4.png",
+				"name" : "Трансмиссионное масло CASTRO Manual EP <br> 80W-90 1л",
+				"price" : "345",
+				"stars" : "5",
+				"discount" : false
+
+			},
+
+			"4" : {
+
+				"code" : "39207",
+				"availability" : true,
+				"image": "../img/slider-img/you-looked-through/you-looked-through-5.png",
+				"name" : "Трансмиссионное масло CASTRO Manual EP <br> 80W-90 1л",
+				"price" : "456",
+				"stars" : "5",
+				"discount" : false
+
+			},
+
+			"5" : {
+
+				"code" : "39207",
+				"image": "../img/slider-img/buyers-choose-for/buyers-choose-for-3.png",
+				"availability" : true,
+				"name" : "Трансмиссионное масло CASTRO Manual <br> EP 80W-90 1л",
+				"price" : "104",
+				"stars" : "5",
+				"discount" : false
+
+			},
+
+			"6" : {
+
+				"code" : "39207",
+				"image": "../img/slider-img/buyers-choose-for/buyers-choose-for-1.png",
+				"availability" : true,
+				"name" : "Моторное масло Castrol Magnatec 10W-40 A3/B4 4 л",
+				"price" : "104",
+				"old_price" : "125",
+				"stars" : "5",
+				"discount" : false
+
+			},
+
+			"7" : {
+
+				"code" : "39207",
+				"image": "../img/slider-img/buyers-choose-for/buyers-choose-for-5.png",
+				"availability" : true,
+				"name" : "Моторное масло Castrol Magnatec 10W-40 A3/B4 4 л",
+				"price" : "125",
+				"stars" : "5",
+				"discount" : false
+
+			}
+
+		}
+		
+	}
+
+}

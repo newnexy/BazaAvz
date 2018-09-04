@@ -1,0 +1,819 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta charset="UTF-8">
+	<title>База Автозвука</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<link rel="stylesheet" href="css/main.css">
+	<link rel="stylesheet" href="css/libs.css">
+</head>
+<body>
+	<div class="page-wrapper">
+
+		<div class="header">
+			
+			<div class="header-top">
+				<div class="header-top-wrapper">
+
+					<ul class="header-menu">
+						<li class="li-1"><a href="#">Контакты</a></li>
+						<li class="li-2"><a href="#">Магазины</a></li>
+						<li class="li-3"><a href="#">О нас</a></li>
+						<li class="li-4"><a href="#">Доставка</a></li>
+						<li class="li-5"><a href="#">Оплата</a></li>
+						<li class="li-6"><a href="#">Бонусная программа</a></li>
+					</ul>
+					
+					<div class="language-navigator">
+						<div class="language-ru">
+							<a href="#">Рус</a>
+						</div>
+						<div class="language-ua">
+							<a href="#">Укр</a>
+						</div>
+					</div>
+
+					<div class="select-city">
+						<span>Ваш город:</span>
+						<div class="your-city">
+							<p>Киев</p>
+						</div>
+					</div>
+
+					<div class="user-line">
+						<div class="login"><a href="#">Вход</a></div>
+						<div class="registration"><a href="#">Регистрация</a></div>
+					</div>
+
+				</div>
+			</div>
+
+			<div class="header-bottom">
+
+				<div class="header-bottom-wrapper" id="header-bottom-wrapper">
+
+					<div class="min-main-menu"></div>
+
+					<div class="logo"><a href="#"><img src="img/logo.png" alt="logo"></a></div>
+
+					<div class="placeholder">
+						<form class="form" id="form">
+							<input type="text" placeholder="Поиск по названию, коду, категории товара">
+							<button></button>
+						</form>	
+					</div>
+
+					<div class="placeholder-min">
+						<button class="button-placeholder-min-on"></button>
+						<button class="button-placeholder-min-off"></button>
+						<div class="full-placeholder-min" style="display: none;">
+							<form class="form-full-placeholder-min" id="form-full-placeholder-min">
+								<input class="input-full-placeholder-min" type="text" placeholder="Поиск по названию, коду, категории товара">
+								<button class="button-full-placeholder-min"></button>
+							</form>	
+						</div>
+					</div>
+
+					<div class="top-phones">
+						<a href="tel:+380800301585">0-800-30-15-85</a>
+						<span class="phones-rectangle"></span>
+						<div class="call-back">
+							<button><span>Обратный звонок</span></button>
+						</div>
+					</div>
+					
+					<div class="header-user-buttons">
+						<ul>
+							<li class="garage"><a href="#">Гараж</a></li>
+							<li class="heart"><span class="hub-i-count">1</span>
+								<a href="#">Избранное</a></li>
+							<li class="libra"><a href="#">Сравнение</a></li>
+							<li class="basket"><a href="#">Корзина</a></li>
+						</ul>
+					</div>
+					<div class="min-basket"><a href="#"></a></div>
+
+				</div>	
+			</div>
+
+		</div>
+
+		<div class="menu">
+				
+			<div class="menu-wrapper">
+				
+				<div id="menu-catalog">
+					<div class="text-catalog">Каталог товаров</div>
+
+					<div id="list-menu-catalog">
+
+						<div class="user-nav">
+
+							<a class="user-nav-login" href="#">Вход</a>
+
+							<a class="user-nav-registration" href="#">Регистрация</a>
+
+						</div>
+
+						<div class="min-main-top-menu">
+
+							<ul>
+								<li>
+									<a class="min-top-catalog" href="#">Каталог товаров</a>
+									<ul>
+										<li>
+											<a href="#">Ещё пункт меню...</a>
+											<ul>
+												<li>
+													<a href="#">Ещё меню...</a>
+												</li>
+												<li>
+													<a href="#">Ещё меню...</a>
+													<ul>
+														<li><a href="#">И ещё меню...</a></li>
+														<li><a href="#">И ещё меню...</a></li>
+													</ul>
+												</li>
+											</ul>
+										</li>
+										<li><a href="#">Ещё пункт меню...</a></li>
+										<li><a href="#">Ещё пункт меню...</a></li>
+									</ul>
+								</li>
+								<li><a href="#">Акции</a></li>
+								<li>
+									<a href="#">Сравнительные тесты</a>
+								</li>
+								<li><a href="#">Как выбрать</a></li>
+								<li><a href="#">Новости</a></li>
+								<li>
+									<a class="сomparison-min-menu" href="#">Сравнение</a>
+								</li>
+								<li><a href="#">Контакты</a></li>
+								<li><a href="#">Магазины</a></li>
+								<li><a href="#">О нас</a></li>
+								<li><a href="#">Доставка</a></li>
+								<li><a href="#">Оплата</a></li>
+								<li><a href="#">Бонусная программа</a></li>
+							</ul>
+
+						</div>
+
+					</div>
+
+				</div>
+
+				<div class="stock"><a href="#">Акции</a></div>
+
+				<div class="tests"><a href="#">Сравнительные тесты</a></div>
+
+				<div class="how-choose"><a href="#">Как выбрать</a></div>
+
+				<div class="news"><a href="#">Новости</a></div>
+
+			</div>
+
+		</div>
+
+		<div class="left-sidebar"></div>
+
+		<div class="content">
+			<div class="wrapper-content">
+
+				<ul class="breadcrumbs">
+					<li>
+						<a href="#">Главная</a>
+					</li>
+					<li>
+						<a href="#">Запчасти и расходники</a>
+					</li>
+					<li>
+						<a href="#">Масло</a>
+					</li>
+					<li>
+						<a href="#">Моторное масло</a>
+					</li>
+					<li>
+						<a href="#">Mobil</a>
+					</li>
+					<li>
+						<a class="breadcrumbs-title-product" href="#"></a>
+					</li>
+				</ul>
+				
+				<span class="rectangle-breadcrumbs" style="display: none">
+					<img src="img/rectangle-breadcrumbs.png" alt="#">
+				</span>
+
+				<div class="product">
+					
+					<div class="product-title-line">
+						
+						<div class="product-title"></div>
+
+						<div class="product-code">
+
+							<div class="white-block"></div>
+
+							<span>Код товара : <span class="code-data"></span></span>
+
+						</div>
+							
+					</div>
+
+					<div class="product-sidebar">
+
+						<div class="product-sidebar-left">
+							
+							<div class="product-preview">
+								
+								<div class="product-min-img"></div>
+
+								<div class="product-min-3d"></div>
+
+								<div class="product-min-video">
+									<img src="img/min-video-img.png" alt="#" style="width: 65px; height: 65px">
+									<div class="white-block-video"></div>
+								</div>
+
+								<div class="product-without-min-img"></div>
+
+								<div class="product-without-min-img"></div>
+
+							</div>
+
+							<div class="product-top-img"><a class="product-top-img-link"></a></div>
+
+							<div class="product-top-3d"></div>
+
+							<div class="product-top-video">
+
+								<a class="product-top-video-link" data-rel="lightcase:сollection"></a>
+
+							</div>
+
+						</div>
+
+						<div class="product-sidebar-right">
+							
+							<div class="product-nav">
+								
+								<span class="out-of-stock">Нет в наличии</span>
+
+								<div class="rating-product"></div>			
+
+								<div class="reviews-ab-product">
+									<a href="#">3 отзыва</a>
+								</div>
+
+								<div class="questions-ab-product">
+									<a href="#">4 вопроса</a>
+								</div>
+
+							</div>
+
+							<div class="product-info">
+
+								<div class="wrapper-product-info">
+
+								
+									<div class="product-price">
+										
+										<span class="value"></span>
+
+										<span class="currency-price">грн</span>
+
+									</div>
+
+									<button class="report-admission">
+										<span>Сообщить о поступлении</span>
+									</button>
+										
+									<div class="product-text">
+										<div class="product-description"></div>
+									</div>
+
+									<ul class="detail-tools">
+
+										<li class="detail-comparison-link"><a href="#">Поделиться</a></li>
+
+										<li class="repost-product"><a href="#">Сравнить</a></li>
+
+									</ul>
+
+								</div>
+
+							</div>
+
+							<div class="similar-product-content">
+
+								<div class="wrapper-similar-product-content">
+
+									<div class="similar-product-content-title"><span>Похожий товар</span></div>
+
+									<div class="similar-product-content-img"></div>
+
+									<div class="similar-product-first-availability"></div>
+
+									<div class="similar-product-content-text"></div>
+
+									<div class="similar-product-content-price">
+
+										<span class="similar-product-price"></span>
+
+										<span class="similar-product-currency-price">грн</span>
+									
+									</div>
+
+									<div class="show-all-similar-recommend-product">
+										<a href="#">Показать все похожие товары</a>
+									</div>
+
+								</div>
+								
+							</div>
+
+						</div>
+
+					</div>
+
+				</div>
+
+				<div class="similar-products-slider">
+
+					<h2>Похожие товары</h2>
+
+					<div class="slider-min-button">
+
+						<div class="prev-slider-min prev-slider-button-similar-products"></div>
+						<div class="next-slider-min next-slider-button-similar-products"></div>
+						
+					</div>
+
+					<div class="wrapper-similar-products-slider">
+						
+					</div>	
+
+				</div>
+
+				<div class="detail-col-description">
+
+					<div class="tabs">
+						<span class="tab" data-tab="0">Характеристики</span><span class="tab" data-tab="1">Описание</span><span class="tab" data-tab="2">Отзывы и вопросы<span class="number-of-reviews">(40)</span></span><span class="tab" data-tab="3">Видеообзоры и статьи</span><span class="tab" data-tab="4">Сертификаты</span>
+					</div>
+
+					<div class="tabs-detail-description">
+
+						<div class="tab-content">
+
+							<div class="product-characteristics tab-item">
+								<h2>Характеристики товара</h2>
+
+								<div class="wrapper-product-characteristics-text">
+
+									<div class="product-characteristics-text"></div>
+
+								</div>
+
+								<div class="show-all-characteristics">
+									<span class="show-characteristics-icon"></span>
+									<div class='show-all-characteristics-text'>
+										<span>Показать все характеристики</span>
+									</div>
+								</div>
+
+							</div>
+
+							<div class="tab-item product-description-tab">
+								
+								<h2>Описание товара</h2>
+
+								<span class="product-description-tab-text"></span>
+
+							</div>
+
+							<div class="tab-item reviews-and-questions-tab">
+								
+								<div class="reviews-and-questions-button">
+									
+									<button class="reviews-button">
+										<span class="text-reviews-button">Отзывы<span>(10)</span></span>
+									</button>
+
+									<button class="questions-button">
+										<span class="text-questions-button">Вопросы<span>(7)</span></span>
+									</button>
+
+									<button class="give-feedback-button">
+										<span class="text-give-feedback-button">Оставить отзыв</span>
+									</button>
+
+								</div>
+
+								<div class="reviews-and-questions-block">
+						
+									<div class="reviews-block">
+
+										<div class="reviews-block-left">
+
+											<div class="reviews-user-name-and-date">
+												
+												<span class="reviews-user-name"></span><span class="reviews-date"></span>
+
+											</div>
+
+											<div class="reviews-block-text">
+
+												<span class="wrapper-reviews-block-text"></span>
+
+											</div>
+
+											<div class="reviews-block-advantages">
+
+												<span class="advantages">Достоинства:</span><span class="advantages-answer"></span>
+
+											</div>
+
+											<div class="reviews-block-disadvantages">
+
+												<span class="disadvantages">Недостатки:</span><span class="disadvantages-answer"></span>
+
+											</div>
+
+											<div class="reviews-block-bottom">
+
+												<div class="answer-in-reviews-block"><span>1 ответ</span></div>
+
+												<div class="reply-in-reviews-block"><span>Ответить</span></div>
+
+												<div class="review-helpful-block">
+													
+													<span class="review-helpful-text">Был ли вам полезен этот отзыв:</span>
+
+													<span class="review-like">14</span>
+
+													<span class="review-dislike">3</span>
+
+												</div>
+
+											</div>
+
+										</div>
+
+										<div class="partition-reviews-block"></div>
+
+										<div class="reviews-block-right">
+
+											<div class="reviews-block-evaluation"><span>Оценка</span></div>
+
+											<div class="reviews-block-stars">
+												
+												<div class="reviews-rating-star"></div>
+
+												<div class="quantity-star"></div>
+
+											</div>
+
+										</div>
+
+									</div>
+
+								</div>
+
+							</div>
+
+							<div class="tab-item articles-video-block">
+								
+								<div class="video-reviews">
+
+									<h2>Видеообзоры</h2>
+
+									<div class="wrapper-video-reviews">
+
+										<div class="img-video-block">
+
+											<img class="img-overlapping-1" src="#" alt="#">
+
+										</div>
+
+										<div class="img-video-block">
+
+											<img class="img-overlapping-2" src="#" alt="#">
+
+										</div>
+
+									</div>
+									
+								</div>
+
+								<div class="articles-top-block">
+
+									<h2>Статьи</h2>
+
+									<div class="next-articles-slide"></div>
+
+									<div class="prev-articles-slide"></div>
+
+								</div>		
+								
+
+
+							</div>
+
+							<div class="tab-item certificates-of-conformity">
+								
+								<h2>Сертификаты соответствия</h2>
+
+								<div class="certificates-block"></div>
+
+							</div>
+
+						</div>
+
+					</div>
+
+					<div class="tabs-right-bar">
+
+						<div class="similar-product-second-block">
+
+							<div class="similar-product-second-img"><img src="#" alt="#"></div>
+
+							<div class="wrapper-similar-product-second-block">
+								
+								<div class="similar-product-availability"></div>
+
+								<span class="similar-product-second-name"></span>
+
+								<div class="similar-product-second-price">
+
+									<span class="similar-product-second-value"></span>
+
+									<span class="similar-product-second-currency">грн</span>
+
+									<a href="#"><img src="img/libra-min.png" alt="#"></a>
+
+								</div>
+
+								<div class="nav-similar-product-second">
+
+									<button class="min-report-admission">Сообщить<br>о поступлении</button>
+									<a href="#"><img src="img/libra-min.png" alt="#"></a>
+									
+								</div>
+
+								<div class="show-all-similar-product-second">
+									<a href="#">Показать все похожие товары</a>
+								</div>
+										
+							</div>
+
+						</div>
+
+						<div class="product-fits-your-car">
+							
+							<span class="product-fits-your-car-title">Товар подходит к вашему авто:</span>
+
+							<div class="product-fits-your-car-Dropdown">
+
+								<div class="nav-product-fits-your-car nav-trigger-product-fits-your-car">
+
+									<span>Volkswagen Golf, 1.9</span>
+
+									<a class="trigger-fits-your-car-on button-on-nav-top-product"></a>
+									<a class="trigger-fits-your-car-off button-off-nav-top-product"></a>
+
+									<ul>
+										<li><a href="#">Volkswagen Golf, 1.3</a></li>
+										<li><a href="#">Volkswagen Golf, 1.6</a></li>
+										<li><a href="#">Volkswagen Golf, 1.8</a></li>
+										<li><a href="#">Volkswagen Golf, GTI</a></li>
+									</ul>
+								</div>
+								
+							</div>
+
+						</div>
+						
+					</div>
+
+				</div>		
+
+				<div class="product-also-bought">
+
+					<h2>С этим товаром так же покупают:</h2>
+
+					<div class="also-bought-button">
+
+						<div class="button-also-bought"><a>Омыватели</a></div>
+						<div class="button-also-bought"><a>Очистители</a></div>
+						<div class="button-also-bought"><a>Топливные фильтры</a></div>
+						<div class="button-also-bought"><a>Моторное масло</a></div>
+						<div class="button-also-bought"><a>Инструменты для авто</a></div>
+						
+					</div>
+
+					<div class="slider-min-button">
+
+						<div class="prev-slider-min prev-slider-button-also-bought"></div>
+						<div class="next-slider-min next-slider-button-also-bought"></div>
+						
+					</div>
+					
+					<div class="wrapper-product-also-bought"></div>
+					
+				</div>
+
+				<div class="buyers-choose-for">
+
+					<div class="nav-wrapper-buyers-choose-for">
+
+						<h2>Покупатели выбирают для:</h2>
+
+						<div class="nav-product-fits-your-car nav-trigger-buyers-choose-for">
+
+							<span>Volkswagen Golf, 1.9</span>
+
+							<a class="trigger-fits-your-car-on button-on-nav-buyers-choose-for"></a>
+							<a class="trigger-fits-your-car-off button-off-nav-buyers-choose-for"></a>
+
+							<ul>
+								<li><a href="#">Volkswagen Golf, 1.3</a></li>
+								<li><a href="#">Volkswagen Golf, 1.6</a></li>
+								<li><a href="#">Volkswagen Golf, 1.8</a></li>
+								<li><a href="#">Volkswagen Golf, GTI</a></li>
+							</ul>
+
+						</div>
+
+					</div>
+
+					<div class="slider-min-button">
+
+						<div class="prev-slider-min prev-slider-button-buyers-choose-for"></div>
+						<div class="next-slider-min next-slider-button-buyers-choose-for"></div>
+						
+					</div>
+
+					<div class="wrapper-buyers-choose-for"></div>
+					
+				</div>
+
+				<div class="you-looked-through">
+
+					<div class="nav-you-looked-through">
+
+						<h2>Вы просматривали</h2>
+
+						<span><a href="#">Все просмотренные товары</a></span>
+						
+					</div>
+					
+					<div class="next-slider-min next-slider-button-you-looked-through"></div>
+
+					<div class="prev-slider-min prev-slider-button-you-looked-through"></div>				
+
+					<div class="wrapper-you-looked-through"></div>
+					
+				</div>
+
+			</div>
+
+		</div>
+
+		<div class="right-sidebar"></div>
+
+		<div class="footer">
+
+			<div class="left-side-footer"></div>
+
+			<div class="content-footer">
+
+				<div class="left-content-side-footer">	
+	
+					<div class="catalog-footer">
+
+						<h3>Каталог</h3>
+
+						<ul>
+
+							<li><a href="#">Электроника</a></li>
+							<li><a href="#">Багаж и крепление</a></li>
+							<li><a href="#">Звук и видео</a></li>
+							<li><a href="#">Автохимия</a></li>
+							<li><a href="#">Запчасти и расходники</a></li>
+							<li><a href="#">Техпомощь</a></li>
+							<li><a href="#">Свет (освещение)</a></li>
+							<li><a href="#">Инструмент</a></li>
+							<li><a href="#">Интерьер</a></li>
+							<li><a href="#">Туризм</a></li>
+							<li><a href="#">Экстерьер</a></li>
+							<li><a href="#">4х4 джипинг</a></li>
+							<li><a href="#">Колеса</a></li>
+							<li><a href="#">Мото</a></li>
+
+						</ul>
+						
+					</div>
+
+					<div class="company-footer">
+
+						<h3>Компания</h3>
+
+						<ul>
+	
+							<li><a href="#">О нас</a></li>
+							<li><a href="#">Контакты</a></li>
+							<li><a href="#">Магазины</a></li>
+							<li><a href="#">Партнеры</a></li>
+							<li><a href="#">Оптовым покупателям</a></li>	
+
+						</ul>
+
+					</div>
+					
+					<div class="buyers-footer">
+
+						<h3>Покупателям</h3>
+
+						<ul>
+
+							<li><a href="#">Доставка</a></li>
+							<li><a href="#">Оплата</a></li>
+							<li><a href="#">Гарантия</a></li>
+							<li><a href="#">Кредит</a></li>
+							<li><a href="#">Бонусная программа</a></li>
+							<li><a href="#">Акции</a></li>
+							<li><a href="#">Карта сайта</a></li>
+
+						</ul>
+						
+					</div>
+
+					<div class="information-footer">
+
+						<h3>Информация</h3>
+
+						<ul>
+
+							<li><a href="#">Как выбрать</a></li>
+							<li><a href="#">Сравнительные тесты</a></li>
+							<li><a href="#">Новости</a></li>
+							<li><a href="#">Часто задаваемые вопросы</a></li>							
+							
+						</ul>
+						
+					</div>
+
+					<div class="bottom-content-footer">
+
+						<span>© 2016, База автозвука</span>
+						
+					</div>
+					
+				</div>
+
+				<div class="right-content-side-footer">
+
+					<a href="tel:+380800301585">0 800 30-15-85</a>
+
+					<span class="title-tel-footer">Бесплатно со стационарных <br> и мобильных телефонов Украины</span>
+
+					<div class="follow-us-footer">
+
+						<span>Следите за нами в соцсетях:</span>
+
+						<div class="img-follow-us-footer-block">
+
+							<a href="#"></a>
+							<a href="#"></a>
+							<a href="#"></a>
+							<a href="#"></a>
+							<a href="#"></a>
+							<a href="#"></a>
+							
+						</div>
+						
+					</div>
+					
+				</div>
+
+
+			</div>
+
+			<div class="right-side-footer"></div>	
+
+		</div>
+
+
+									
+
+
+
+	</div>
+
+
+
+	<script src="js/libs.min.js"></script>
+	<script src="js/common.js"></script>
+</body>
+</html>
